@@ -1,0 +1,25 @@
+---
+title: Zc Studio
+layout: studio
+---
+
+<div id="portfolio">
+
+	{% for post in site.categories.studio %}
+		<div class="main item">
+			<img src="/images/studio/portfolio/{{ post.image }}" />
+			<div class="info">
+				<h2>{{ post.title }}</h2>
+				<a href="{{ post.external_url }}" class="check">check it out</a>
+				<ul class="skills">
+					{% for skill in post.skills %}
+						<li>{{ skill }}</li>
+					{% endfor %}
+				</ul>
+				{{ post.content }}
+			</div>
+			<div class="overlay"></div>
+		</div>
+	{% endfor %}
+    
+</div>
