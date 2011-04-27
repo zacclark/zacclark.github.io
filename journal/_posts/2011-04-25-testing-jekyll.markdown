@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Testing Jekyll
 blah: woohoo!
 ---

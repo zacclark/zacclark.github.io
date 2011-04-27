@@ -1,0 +1,23 @@
+---
+layout: school-post
+---
+
+### Brief biographical sketch:
+
+I'm a junior in Computer Science at CU, and I've been working part time as a web developer at The Van Heyst Group. Last summer I also interned with a local Techstars startup, Everlater. I've always had a knack for computers, and since discovering web design and development I've found what I love to do.
+
+Outside of work and academics I like to hike, play groundies with friends (the BEST game ever), and practice parkour. I used to be really into videogames, but thats becoming less true. I still occasionally play my xbox.
+
+### Brief statement of purpose:
+
+I've known since I started at CU that I want to pursue a career as a web developer. Web tools come more naturally to me than other styles of programming, and I love the scope involved. It is amazing to me that I can spend 10 minutes and $10 and suddenly have something that anyone in the entire world (who has internet access) can view.
+
+Recently I've been exposed to more about software engineering as a craft, rather than just "coding" or "programming". Last semester I took "Software Engineering Methods and Tools" which really opened my eyes to many practices that I'd never seen before.
+
+### Plan for what you intend to do in this class this semester:
+
+My plan for the semester is primarily to apply the software engineering ideas I've learned to my current work with VHG. As I'm the sole developer there, pretty much all of my time (which is limited, given that I'm in school) is spent on advancing features according to customer needs. Since I have so little time, I haven't had the chance to do things like refactoring, testing, and other software engineering practices. My plan for the semester is to merge my learning at CU with my work, and use the time available for this class to do those things in my projects at VHG.
+
+As far as developing my professional awareness and human network, I'd like to mainly network more with my fellow students. I've always seen my schooling as very separate from my work, and I'd like to change that. Already in the class I met another student who had interned in the same office as I had last summer (there are 4 companies sharing the space), and we had never talked before. I'm sure there are more people like that in my classes, and I would like to try and make more connections with them.
+
+Also, I used to be part of CU&lt;DIV&gt;, which was a CU web development group on campus. They haven't had a meeting for a long time, so I want to find out what happened and if I can help get it started again.
