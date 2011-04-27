@@ -3,6 +3,8 @@ body            {background: #fff; font-family: "Helevetica Neue", "Lucida Grand
 #wrap           {width: 520px; margin: 40px auto 20px auto; position: relative;}
 #wrap h1        {width: 100px; height: 158px; margin: 10px auto; text-indent: -9999px; background: url(/images/logo-school.png) no-repeat top left; position: absolute; left: -120px;}
 #wrap h1 a      {width: 100px; height: 158px; display: block;}
+#back_home      {width: 100px; height: auto !important; display: block; text-indent: 0 !important; position: absolute; top: -25px; left: 0; color: #000; font-size: 12px; text-align: center; background: #000; color: #5b5; -webkit-border-radius: 5px; text-decoration: none; text-transform: lowercase; font-weight: normal; padding: 2px 0; -webkit-transition: opacity 0.5s ease-out; opacity: 0;}
+#wrap h1:hover #back_home {opacity: 1.0;}
 #wrap #logo     {display: block; margin: 10px auto;}
 #wrap p         {font-size: 18px; line-height: 1.5em; margin-bottom: 1em; text-align: left;}
 #wrap p a       {text-decoration: none; color: #292; border-bottom: 1px dotted #292;}

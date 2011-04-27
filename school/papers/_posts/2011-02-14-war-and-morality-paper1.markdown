@@ -1,0 +1,35 @@
+---
+title: War & Morality &mdash; Paper 1
+author: Zachary Clark
+layout: paper
+---
+
+**Paper topic: 1. "What is historical relativism (about the morality of war). Why does Walzer reject its skeptical conclusions?"**
+
+Historical relativism poses a problem when attempting to argue or judge historical decisions, as it presents the idea that, given the political/emotional climate of the past, what one views &ldquo;as ignorance may look like understanding to someone else.&rdquo; Simply put, historical relativism means that actions and decision are only relative to their position in history, one which may be drastically different than it is today. If one accepts this as true it becomes hard to use anything but incredibly recent events as arguments for or against one&rsquo;s cause, since other events would be non-applicable given their age.
+
+This problem spreads across all disciplines, but (in the context of Michael Walzer&rsquo;s Just and Unjust Wars) it needs to be specifically looked at in regards to the morality of war. For instance, one could argue (using the idea of historical relativism) that we cannot properly pass judgement on actions taken in a past war because the (to borrow a phrase from Walzer) moral reality of war has changed. As cultures shift and political powers rise and fall the values they honored and spread shift as well.
+
+Walzer acknowledges that there can certainly be differences: &ldquo;No doubt the moral reality of war is not the same for us as it was for Genghis Khan; nor is the strategic reality.&rdquo; But, he argues that, in general, we share common morality with our ancestors and that they shared somewhat common morality with their contemporaries. To accomplish this, as with many of the positions he argues for in the book, he presents various historical examples that have modern analogues.
+
+These first two he brings up in passing, as if they speak mostly for themselves: while many common views (such as &ldquo;the glorification of aristocratic chivalry&rdquo;) have disappeared, the basis for acting morally and correctly have remained &ldquo;remarkably persistent&rdquo;. Similarly, many aspects of correct conduct during battle remain even though specific warrior honor codes (like those of Knights or Samurai) have long been gone.
+
+While he does not dwell on these points, they seem to be rather important to his overall argument. The kinds of conduct that remain are often similar to values contained in the now-defunct warrior honor, such as refusing to kill an unarmed opponent, having respect for one&rsquo;s enemy, and not harming innocent bystanders. Warriors today mostly follow these rules, but it is no longer tied to a specific &ldquo;warrior code&rdquo; but rather a more general morality that has remained consistent across history (with minor variations about specific conduct).
+
+Walzer also brings up that this morality isn&rsquo;t set by an action&rsquo;s inherent good or evil, but by how the populace reacts:
+
+&ldquo;It is important to stress that the moral reality of war is not fixed by actual activities of soldiers but by the opinions of mankind. That means, in part, that it is fixed by the activity of philosophers, lawyers, publicists of all sorts.&rdquo;
+
+With this, Walzer seems to make the admission that there could be a great degree of change in morals across time. This would fit in with historical relativism except that he includes evidence that some morals&mdash;mostly those concerning actions in war&mdash;have changed little across history.
+
+For his main historical argument he brings up the battle between the English and French at Agincourt in 1415. Specifically, Walzer focuses on how varied reports on the battle&mdash;both from different sides and from different points historically&mdash;raised similar moral issues despite disagreement on other points. In all the accounts of the battle, issue was raised with King Henry V&rsquo;s decision to execute his French prisoners. The degree to which each author condemned the action varied from the action being out of character from &ldquo;his accustomed gentleness&rdquo; to &ldquo;cold-blooded wholesale murder&rdquo;, but all authors brought up that there was issue with killing people that have no means or will to fight back.
+
+Walzer&rsquo;s point in showing these examples is not to condemn the action, but to show that, even given the major differences in situation that historical relativism would espouse as irreconcilable, the action was a moral issue, and one &ldquo;that requires scrutiny and judgement.&rdquo; This fits in with Walzer&rsquo;s partial acceptance of historical relativism because these moral values governing war seem to be in a separate collection from those that change across history.
+
+The somewhat higher class of morals seem to cover actions that always bring up moral judgement, such as the slaughter of innocents, genocide, extreme punishment, and torture. The example of Agincourt brings up the first of those, but Walzer alludes to others in his references to &ldquo;warrior idealism&rdquo; and &ldquo;right conduct&rdquo;. He seems to be pushing for the idea that, across history, while the specifics have changed, there has always been a feeling that there is a right way to treat others, especially in situations of wartime.
+
+Walzer argues for this by way of showing that its counter point exists, that there is always blame around the wrong way to treat others, that there must be an accepted way to treat them correctly. This is shown often in political discourse, where speakers often talk of the great difficulty they underwent to decide on harming others. The fact that the discussion happens, that the speakers feel they must validate themselves against some moral standard means that this standard certainly exists and is a strong motivation for action.
+
+The main point to take away from this is that there are many actions taken in wartime that were never, and will never be, free from judgement and debate. The fact that these debates continue to take place, and to have similar moral terms applied to them each time (such as slaughter, massacre) shows that there certainly is a moral reality of war that exists beyond normal relativism. If historical relativism were true, the varied commentaries on Agincourt would certainly not find issue with King Henry V&rsquo;s decision in such similar ways.
+
+In his arguments, Walzer does not totally discount historical relativism. Rather, his points are more like an appeal to add an extra layer of morality over that which shifts alongside culture and politics. Specifically, the moral reality of war remains remarkably consistent across different eras of history in regards to treatment of the enemy. While individual time periods may disagree on specifics, the trends around dealing with non-combatants, overwhelming punishment, and genocide don&rsquo;t vary greatly. Because of this, we can look back on events across history for help in judging whether an action is or is not just.
