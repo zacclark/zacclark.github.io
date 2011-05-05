@@ -1,7 +1,7 @@
 body                    {background: #fff; font-family: "Helvetica Neue";}
 
 #wrap                   {width: 900px; background: #fff;}
-#content                {width: 900px; height: 600px; -webkit-border-radius: 5px; -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.7); overflow: hidden;}
+#content                {width: 900px; height: 600px; -webkit-border-radius: 5px; box-shadow: 0 0 10px rgba(0,0,0,0.7); -moz-box-shadow: 0 0 10px #222; overflow: hidden; -moz-border-radius: 5px;}
 
 #counter                {width: 100px; height: auto !important; display: block; text-indent: 0 !important; position: absolute; bottom: -10px; left: 0; color: #000; font-size: 12px; text-align: center; padding: 2px 0;}
 
@@ -12,5 +12,5 @@ body                    {background: #fff; font-family: "Helvetica Neue";}
 
 .slide.title h2         {font-size: 50px; text-align: center; margin-top: 200px;}
 .slide.title h3         {font-size: 30px; text-align: center; margin-top: 20px;}
-.slide.dark             {background: #000; color: #fff !important;}
+.slide.dark             {background: #000; color: #fff !important; -moz-border-radius: 5px;}
 .slide.single h2        {margin-top: 200px; font-size: 80px; text-align: center;}
